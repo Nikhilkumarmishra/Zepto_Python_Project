@@ -1,0 +1,39 @@
+product_id,product_name,category,base_price
+101,Apple,Fruits & Vegetables,326.92
+102,Banana,Fruits & Vegetables,32.01
+103,Onion,Fruits & Vegetables,152.01
+104,Potato,Fruits & Vegetables,127.14
+105,Tomato,Fruits & Vegetables,373.51
+106,Spinach,Fruits & Vegetables,344.82
+107,Mango,Fruits & Vegetables,448.25
+108,Orange,Fruits & Vegetables,61.73
+109,Milk 1L,Dairy & Eggs,222.52
+110,Butter 100g,Dairy & Eggs,34.3
+111,Cheese Slices,Dairy & Eggs,124.95
+112,Paneer 200g,Dairy & Eggs,262.57
+113,Curd 500g,Dairy & Eggs,32.74
+114,Eggs 6pcs,Dairy & Eggs,115.44
+115,Greek Yogurt,Dairy & Eggs,331.94
+116,Potato Chips,Munchies,281.57
+117,Nachos,Munchies,125.81
+118,Popcorn,Munchies,302.85
+119,Roasted Almonds,Munchies,408.53
+120,Chocolate Bar,Munchies,23.12
+121,Biscuits,Munchies,406.79
+122,Cola 500ml,Beverages,355.11
+123,Orange Juice,Beverages,183.32
+124,Coconut Water,Beverages,94.63
+125,Green Tea,Beverages,479.46
+126,Instant Coffee,Beverages,181.57
+127,Energy Drink,Beverages,64.52
+128,Dishwash Liquid,Household Essentials,66.42
+129,Detergent 1kg,Household Essentials,426.8
+130,Floor Cleaner,Household Essentials,309.79
+131,Toilet Paper,Household Essentials,407.42
+132,Garbage Bags,Household Essentials,370.27
+133,Shampoo,Personal Care,277.39
+134,Handwash,Personal Care,487.1
+135,Toothpaste,Personal Care,201.7
+136,Soap Bar,Personal Care,284.98
+137,Face Wash,Personal Care,418.11
+138,Sanitary Pads,Personal Care,316.89
